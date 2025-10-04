@@ -1,2 +1,0 @@
-# EPICODE
-Esercizzi svolti
